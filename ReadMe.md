@@ -1,9 +1,9 @@
-# I'm Santosh Kumar Verma
+# Hello!!,  Santosh Here
 
 ## This is Project-15
 
 Live Link 🔗
-https://dance-home-page-pr-14.netlify.app/
+https://productlandingpage-pr-15.netlify.app/
 
 ## SNAP
 
@@ -12,6 +12,5 @@ https://dance-home-page-pr-14.netlify.app/
 This is resposive and
 It took 6 hrs to complete this Project.
 
-### What I Learnt in this Project-
-  -More control over Media Query
+
 
